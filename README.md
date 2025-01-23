@@ -1,15 +1,13 @@
 # Semilogo Ogungbure
 
-[Contact Information](mailto:semilogoolusola@gmail.com) | [LinkedIn](#) | [GitHub](https://github.com/SemilogoDan) | +32 484 823 661  
-**MSc in Electrical Engineering | Vrije Universiteit Brussels, Belgium**
+**Technical Skills**: Python, MATLAB, AutoCAD, LTSpice, Simulink, AWS
 
 ---
 
 ## Education
 - **MSc, Electrical Engineering** | Vrije Universiteit Brussels (VUB), Belgium (_September 2021 – September 2024_)  
-  **Grade**: Great Distinction  
   **Specialization**: Information and Communication Technology (ICT)  
-  **Thesis**: AI-driven optimization of process parameters to enhance product quality (Agfa-Gevaert Group).  
+  **Thesis**: AI-driven optimization of process parameters to enhance product quality (Agfa-Gevaert Group).
 
 - **BEng, Electrical & Electronics Engineering** | Federal University of Technology, Akure (FUTA), Nigeria (_June 2011 – June 2016_)  
   **Grade**: 3.99/5  
@@ -18,7 +16,6 @@
 ---
 
 ## Work Experience
-
 **Field Engineer Intern @ Agfa-Gevaert Group, Belgium (_October 2023 – September 2024_)**  
 - Performed on-site installations, maintenance, and troubleshooting of electrical equipment and AI systems.  
 - Collaborated with cross-functional teams to troubleshoot and resolve technical issues, ensuring equipment reliability.  
@@ -39,17 +36,17 @@
 
 ## Projects
 
-### AI-Driven Quality Enhancement | Python, AI
+### AI-Driven Quality Enhancement | Python, AI  
 Developed an AI model for process parameter optimization to enhance product quality, gaining hands-on experience with Python and machine learning.
 
 ![AI Quality Enhancement](#)
 
-### Voice Isolation | Python
+### Voice Isolation | Python  
 Developed signal processing scripts to isolate vocal/non-vocal audio components.
 
 ![Voice Isolation](#)
 
-### Personal VPN over TOR using AWS
+### Personal VPN over TOR using AWS  
 Configured and deployed a secure VPN system, demonstrating IT deployment and maintenance skills.
 
 ![Personal VPN](#)
@@ -58,6 +55,12 @@ Configured and deployed a secure VPN system, demonstrating IT deployment and mai
 Achieved efficient and secure data transmission using visible light, showcasing the potential of VLC for modern wireless communication systems.
 
 ![VLC Protocol](#)
+
+---
+
+## Publications
+- **AI-Driven Process Parameter Optimization** | Agfa-Gevaert Group, 2024  
+- **LED-Based VLC Protocol Security** | *Published in IEEE Communications, 2023*
 
 ---
 
@@ -71,14 +74,7 @@ Achieved efficient and secure data transmission using visible light, showcasing 
 
 ---
 
-## Awards
-- **Agbami Scholarship for Engineering and Medical Professions** | Agbami | *August 2012–2016*  
-- **Professor Olufolaji D.B Scholarship Prize** | Youth Fellowship | *April 2014*
-
----
-
 ## Volunteering
-
 - **National Youth Service Corps** | *July 2016–December 2017*  
 - **First Aid Box Service Provider** | *November 2017*
 
