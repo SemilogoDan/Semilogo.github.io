@@ -93,8 +93,6 @@ Achieved efficient and secure data transmission using visible light, showcasing 
 **Let’s connect and create innovative solutions together!**
 
 - 📧 Email: [semilogoolusola@gmail.com](mailto:semilogoolusola@gmail.com)
-- 📞 Phone: +32484823661
-- 📍 Location: Brussels, Belgium
 - ⬇️ GitHub: [Visit my GitHub Portfolio](https://github.com/SemilogoDan)
 - 🌐 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/semilogo-dan-s-ba86b2206/)
 - 📝 Medium: [Read my articles on Medium](https://medium.com/@semilogosola)
