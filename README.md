@@ -67,7 +67,9 @@ Achieved efficient and secure data transmission using visible light, showcasing 
 
 ## Publications
 - **AI-Driven Process Parameter Optimization** | Agfa-Gevaert Group, 2024  
-- **LED-Based VLC Protocol Security** | *Published in IEEE Communications, 2023*
+- **LED-Based VLC Protocol Security** | *Published in IEEE Communications, 2023*  
+- **Design Overview and Analysis of 11/0.415 kV, 500 kVA Power Substation in Nigeria**  
+  Published on [Electrical Engineering Portal](https://electrical-engineering-portal.com/download-center/books-and-guides/power-substations/11-0-4kv-ss-nigeria).
 
 ---
 
