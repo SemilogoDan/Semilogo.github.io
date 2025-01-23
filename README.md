@@ -89,6 +89,13 @@ Achieved efficient and secure data transmission using visible light, showcasing 
 ## Soft Skills
 - Problem Solving | Communication | Teamwork | Organization | Attention to Detail
 
-- ## CONTACT DETAILS
+## Contact Me
+**Let’s connect and create innovative solutions together!**
 
-<table style="border-collapse: collapse; width: 100%; font-size: 16px;"> <tbody> <tr> <td style="padding: 8px 10px;">📧</td> <td style="padding: 8px 10px;"><a href="mailto:semilogoolusola@gmail.com" style="text-decoration: none; color: #0072b1;">semilogoolusola@gmail.com</a></td> </tr> <tr> <td style="padding: 8px 10px;">📞</td> <td style="padding: 8px 10px;">+32 484 823 661</td> </tr> <tr> <td style="padding: 8px 10px;">📍</td> <td style="padding: 8px 10px;">Brussels, Belgium</td> </tr> <tr> <td style="padding: 8px 10px;">⬇️</td> <td style="padding: 8px 10px;"><a href="https://github.com/SemilogoDan" style="text-decoration: none; color: #0072b1;">Explore My GitHub Projects</a></td> </tr> <tr> <td style="padding: 8px 10px;">🌐</td> <td style="padding: 8px 10px;"><a href="https://www.linkedin.com/in/semilogo-dan-s-ba86b2206/" style="text-decoration: none; color: #0072b1;">Connect with Me on LinkedIn</a></td> </tr> <tr> <td style="padding: 8px 10px;">✍️</td> <td style="padding: 8px 10px;"><a href="https://medium.com/@semilogosola" style="text-decoration: none; color: #0072b1;">Read My Articles on Medium</a></td> </tr> </tbody> </table>
+- 📧 Email: [semilogoolusola@gmail.com](mailto:semilogoolusola@gmail.com)
+- 📞 Phone: +32484823661
+- 📍 Location: Brussels, Belgium
+- ⬇️ GitHub: [Visit my GitHub Portfolio](https://github.com/SemilogoDan)
+- 🌐 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/semilogo-dan-s-ba86b2206/)
+- 📝 Medium: [Read my articles on Medium](https://medium.com/@semilogosola)
+
