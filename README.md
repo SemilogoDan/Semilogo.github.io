@@ -97,3 +97,23 @@ Achieved efficient and secure data transmission using visible light, showcasing 
 - 🌐 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/semilogo-dan-s-ba86b2206/)
 - 📝 Medium: [Read my articles on Medium](https://medium.com/@semilogosola)
 
+- <form action="https://formsubmit.co/semilogoolusola@gmail.com" method="POST" style="max-width: 400px; margin: auto;">
+    <!-- Honeypot for Spam Protection -->
+    <input type="text" name="_honey" style="display:none">
+
+    <!-- Email Notifications -->
+    <input type="hidden" name="_captcha" value="true">
+
+    <!-- Redirect After Submission -->
+    <input type="hidden" name="_next" value="https://yourwebsite.com/thank-you">
+
+    <!-- User Inputs -->
+    <input type="text" name="name" placeholder="Your Name" style="width: 100%; padding: 10px; margin: 5px 0;" required>
+    <input type="email" name="email" placeholder="Your Email" style="width: 100%; padding: 10px; margin: 5px 0;" required>
+    <textarea name="message" placeholder="Your Message" style="width: 100%; padding: 10px; margin: 5px 0;" required></textarea>
+
+    <!-- Submit Button -->
+    <button type="submit" style="padding: 10px 20px; background-color: blue; color: white; border: none; cursor: pointer;">Send</button>
+</form>
+
+
