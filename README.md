@@ -32,7 +32,7 @@
 - Reduced downtime by 30% through proactive troubleshooting and IT maintenance.  
 - Troubleshot and resolved electrical issues in packaging and manufacturing equipment.
 
-**11/0.415 kV, 500 kVA Power Substation Design in Nigeria.**
+**Electical Network  designer @ Benin Electricity Distribution Company (BEDC), Akure, Nigeria (June 20115 – November 2016_)**
 Designed and analyzed an 11/0.415 kV, 500 kVA power substation to meet operational load requirements for the Nigerian power grid while ensuring efficiency and reliability.
 - Conducted load flow analysis and short circuit calculations to optimize performance.
 - Selected and sized equipment like transformers, circuit breakers, and busbars per grid standards.
