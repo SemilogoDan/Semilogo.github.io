@@ -97,7 +97,7 @@ Achieved efficient and secure data transmission using visible light, showcasing 
 - 🌐 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/semilogo-dan-s-ba86b2206/)
 - 📝 Medium: [Read my articles on Medium](https://medium.com/@semilogosola)
 
-- <form action="https://formsubmit.co/semilogoolusola@gmail.com" method="POST" style="max-width: 400px; margin: auto;">
+ <form action="https://formsubmit.co/semilogoolusola@gmail.com" method="POST" style="max-width: 400px; margin: auto;">
     <!-- Honeypot for Spam Protection -->
     <input type="text" name="_honey" style="display:none">
 
