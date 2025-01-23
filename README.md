@@ -1,5 +1,5 @@
-# Semilogo Ogungbure
 
+# Electrical Engineer
 **Technical Skills**: Python, MATLAB, AutoCAD, LTSpice, Simulink, AWS
 
 ---
