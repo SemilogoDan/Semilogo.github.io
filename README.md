@@ -32,6 +32,13 @@
 - Reduced downtime by 30% through proactive troubleshooting and IT maintenance.  
 - Troubleshot and resolved electrical issues in packaging and manufacturing equipment.
 
+**11/0.415 kV, 500 kVA Power Substation Design in Nigeria.**
+Designed and analyzed an **11/0.415 kV, 500 kVA power substation** to meet operational load requirements for the Nigerian power grid while ensuring efficiency and reliability.
+- Conducted load flow analysis and short circuit calculations to optimize performance.
+- Selected and sized equipment like transformers, circuit breakers, and busbars per grid standards.
+- Developed single-line diagrams and schematics using **AutoCAD**.
+[Read More](https://electrical-engineering-portal.com/download-center/books-and-guides/power-substations/11-0-4kv-ss-nigeria)
+
 ---
 
 ## Projects
