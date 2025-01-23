@@ -91,28 +91,4 @@ Achieved efficient and secure data transmission using visible light, showcasing 
 
 - ## CONTACT DETAILS
 
-*Let’s connect and see how we can create innovative solutions together!*
-<table>
-  <tbody>
-    <tr>
-      <td>📧</td>
-      <td><a href="mailto:semilogoolusola@gmail.com">semilogoolusola@gmail.com</a></td>
-    </tr>
-    <tr>
-      <td>📞</td>
-      <td>+32484823661</td>
-    </tr>
-    <tr>
-      <td>📍</td>
-      <td>Brussels, Belgium</td>
-    </tr>
-    <tr>
-      <td>⬇️</td>
-      <td><a href="https://github.com/SemilogoDan">Visit my GitHub Portfolio</a></td>
-    </tr>
-    <tr>
-      <td>🌐</td>
-      <td><a href="https://www.linkedin.com/in/semilogo-dan-s-ba86b2206/">Connect with me on LinkedIn</a></td>
-    </tr>
-  </tbody>
-</table>
+<table style="border-collapse: collapse; width: 100%; font-size: 16px;"> <tbody> <tr> <td style="padding: 8px 10px;">📧</td> <td style="padding: 8px 10px;"><a href="mailto:semilogoolusola@gmail.com" style="text-decoration: none; color: #0072b1;">semilogoolusola@gmail.com</a></td> </tr> <tr> <td style="padding: 8px 10px;">📞</td> <td style="padding: 8px 10px;">+32 484 823 661</td> </tr> <tr> <td style="padding: 8px 10px;">📍</td> <td style="padding: 8px 10px;">Brussels, Belgium</td> </tr> <tr> <td style="padding: 8px 10px;">⬇️</td> <td style="padding: 8px 10px;"><a href="https://github.com/SemilogoDan" style="text-decoration: none; color: #0072b1;">Explore My GitHub Projects</a></td> </tr> <tr> <td style="padding: 8px 10px;">🌐</td> <td style="padding: 8px 10px;"><a href="https://www.linkedin.com/in/semilogo-dan-s-ba86b2206/" style="text-decoration: none; color: #0072b1;">Connect with Me on LinkedIn</a></td> </tr> <tr> <td style="padding: 8px 10px;">✍️</td> <td style="padding: 8px 10px;"><a href="https://medium.com/@semilogosola" style="text-decoration: none; color: #0072b1;">Read My Articles on Medium</a></td> </tr> </tbody> </table>
