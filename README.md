@@ -88,3 +88,31 @@ Achieved efficient and secure data transmission using visible light, showcasing 
 
 ## Soft Skills
 - Problem Solving | Communication | Teamwork | Organization | Attention to Detail
+
+- ## CONTACT DETAILS
+
+*Let’s connect and see how we can create innovative solutions together!*
+<table>
+  <tbody>
+    <tr>
+      <td>📧</td>
+      <td><a href="mailto:semilogoolusola@gmail.com">semilogoolusola@gmail.com</a></td>
+    </tr>
+    <tr>
+      <td>📞</td>
+      <td>+32484823661</td>
+    </tr>
+    <tr>
+      <td>📍</td>
+      <td>Brussels, Belgium</td>
+    </tr>
+    <tr>
+      <td>⬇️</td>
+      <td><a href="https://github.com/SemilogoDan">Visit my GitHub Portfolio</a></td>
+    </tr>
+    <tr>
+      <td>🌐</td>
+      <td><a href="https://www.linkedin.com/in/semilogo-dan-s-ba86b2206/">Connect with me on LinkedIn</a></td>
+    </tr>
+  </tbody>
+</table>
