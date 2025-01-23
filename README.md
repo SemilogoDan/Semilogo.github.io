@@ -4,15 +4,16 @@
 
 ---
 
-## Education
-- **MSc, Electrical Engineering** | Vrije Universiteit Brussels (VUB), Belgium (_September 2021 – September 2024_)
-  **Grade**: Merit
-  **Specialization**: Information and Communication Technology (ICT)  
-  **Thesis**: AI-driven optimization of process parameters to enhance product quality (Agfa-Gevaert Group).
+## EDUCATION
 
-- **BEng, Electrical & Electronics Engineering** | Federal University of Technology, Akure (FUTA), Nigeria (_June 2011 – June 2016_)  
-  **Grade**: 3.99/5  
-  Designed a 500kVA, 11/0.415kV power distribution substation using AutoCAD for OSPC company.
+- **MSc, Electrical Engineering** | Vrije Universiteit Brussels (VUB), Belgium (_September 2021 – September 2024_)
+  - **Grade**: Merit
+  - **Specialization**: Information and Communication Technology (ICT)  
+  - **Thesis**: AI-driven optimization of process parameters to enhance product quality (Agfa-Gevaert Group).
+
+- **BEng, Electrical & Electronics Engineering** | Federal University of Technology, Akure (FUTA), Nigeria (_June 2011 – June 2016_)
+  - **Grade**: 3.99/5  
+  - Designed a **500kVA, 11/0.415kV power distribution substation** using AutoCAD for **Benin Electricity Distribution Company (BEDC)**.
 
 ---
 
