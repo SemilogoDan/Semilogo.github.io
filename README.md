@@ -5,7 +5,8 @@
 ---
 
 ## Education
-- **MSc, Electrical Engineering** | Vrije Universiteit Brussels (VUB), Belgium (_September 2021 – September 2024_)  
+- **MSc, Electrical Engineering** | Vrije Universiteit Brussels (VUB), Belgium (_September 2021 – September 2024_)
+- **Grade**: Merit
   **Specialization**: Information and Communication Technology (ICT)  
   **Thesis**: AI-driven optimization of process parameters to enhance product quality (Agfa-Gevaert Group).
 
